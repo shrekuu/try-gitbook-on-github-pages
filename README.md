@@ -1,3 +1,17 @@
+# Try Gitbook on Github Pages
+
+> [tutorial](https://medium.com/@richdayandnight/simple-tutorial-on-hosting-your-gitbook-documentation-on-github-pages-bonus-with-gitbook-editor-f27f60d5d408)
+> [demo](https://shrekuu.github.io/try-gitbook-on-github-pages/)
+
+## Notes
+
+- Install nodejs v11.15.0 with nvm. [why?](https://github.com/isaacs/node-graceful-fs/issues/192)
+- Install gitbook-cli with `npm i -g gitbook-cli gulp`
+- `gitbook init` may take a few minutes. Wait it out.
+- Follow the [Rich Yap's tutorial](https://medium.com/@richdayandnight/simple-tutorial-on-hosting-your-gitbook-documentation-on-github-pages-bonus-with-gitbook-editor-f27f60d5d408)
+
+## Below is Old README.md content
+
 # Learning How to Learn: Powerful mental tools to help you master tough subjects
 
 This Gitbook contains my notes on the course [Learning How to Learn: Powerful mental tools to help you master tough subjects](https://www.coursera.org/learn/learning-how-to-learn).
